@@ -9,7 +9,7 @@ In windows OS, enter the command 'pip install openpyxl' on CMD to install Third 
 
 코드 설명 : 
 
-This is inputed scores of subjects to save the messages, mean and scores for a calculated things as Excel File.
+This is inputed scores of subjects to save the messages, mean and scores for calculated things as Excel File.
 
 이는 과목의 점수를 입력받아 평균값과 그에 따른 메시지를 엑셀로 저장하는 프로그램입니다.
 
