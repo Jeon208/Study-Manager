@@ -1,6 +1,6 @@
 # Study-Manager
 
-This is inputed scores of subjects to save the messages for a calculated mean and socres as Excel File.
+This is inputed scores of subjects to save the messages, mean and scores for a calculated things as Excel File.
 이는 과목의 점수를 입력받아 평균값과 그에 따른 메시지를 엑셀로 저장하는 프로그램입니다.
 
 If here are typos or enhancements, tell me what it is without burdens.
