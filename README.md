@@ -1,9 +1,20 @@
 # Study-Manager
 
+실행 전 :
+
+windows의 경우 명령프롬포트(cmd)에서 'pip install openpyxl'를 입력하여 외부 라이브러리를 설치한다.
+
+In windows OS, enter the command 'pip install openpyxl' on CMD to install Third Party Library.
+
+
+코드 설명 : 
+
 This is inputed scores of subjects to save the messages, mean and scores for a calculated things as Excel File.
 
 이는 과목의 점수를 입력받아 평균값과 그에 따른 메시지를 엑셀로 저장하는 프로그램입니다.
 
+
+-----
 
 If here are typos or enhancements, tell me what it is without burdens.
 
