@@ -1,4 +1,5 @@
 # Study-Manager
+-----
 
 실행 전 :
 
@@ -6,6 +7,7 @@ In windows OS, enter the command 'pip install openpyxl' on CMD to install Third 
 
 windows의 경우 명령프롬포트(cmd)에서 'pip install openpyxl'를 입력하여 외부 라이브러리를 설치한다.
 
+-----
 
 코드 설명 : 
 
